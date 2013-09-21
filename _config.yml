@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: Alice-Yoite.com
+title: Alice-Yoite.tk
 url: http://Alice-Yoite.tk
 feed: /atom.xml
 author_info: <a href="http://Alice-Yoite/">Alice-Yoite</a>
